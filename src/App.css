@@ -3,3 +3,8 @@
   text-align: center;
 }
 
+:root{
+  --header-color: white;
+  --header-text: black;
+  
+}
