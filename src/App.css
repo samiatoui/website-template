@@ -8,3 +8,15 @@
   --header-text: black;
   
 }
+
+a{
+  text-decoration: none;
+}
+
+a:visited{
+  color: var(--header-text);
+}
+
+a:hover{
+  color: rgb(173, 173, 173);
+}
