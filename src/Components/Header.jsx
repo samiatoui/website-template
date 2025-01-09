@@ -16,9 +16,7 @@ function Header() {
                     className="hamburger"
                     onClick={toggleMenu}
                     aria-label="Toggle menu"
-                >
-                    ☰
-                </button>
+                >☰</button>
 
                 {/* Mobile Menu */}
                 <nav className={`nav-menu ${menuOpen ? "open" : ""}`}>
