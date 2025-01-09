@@ -159,18 +159,17 @@ button {
   padding: 25px 50px;
   justify-content: center;
   margin: 0 auto 50px auto;
-
 }
 
 .bannerv3 .bannertext{
-  max-width: 40%;
-  text-align: center;
-  margin: 0 auto;
-  padding: 100px 25px;
+  max-width: 50%;
+  text-align: left;
+  padding: 100px 0px;
 }
 
 .bannerv3 .bannerimg img{
   padding-left: 100px;
+  max-width: 50%;
 }
 
 .bannerimg img {
