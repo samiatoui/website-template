@@ -16,33 +16,32 @@ function Home() {
                 </div>
             </div>
 
-            <h1> Services </h1>
+            <h1> Most Reliable Web Design Winnipeg Services
+            </h1>
             <div className="services-sec">
                 <div className="service-item">
                     <h2>Web Development</h2>
-                    <p>I build websites that meet your business needs. Working closely with you to ensure that your needs and requirements are well understood and satisfied.</p>
                     <ul>
-                        <li>Wordpress & Shopify</li>
-                        <li>Ecommerce</li>
-                        <li>Web hosting</li>
+                        <li>Web Design</li>
+                        <li>Web Development</li>
+                        <li>Wordpress Development</li>
+                        <li>Web Hosting</li>
                         <li>Web Maintenance</li>
                     </ul>
 
                 </div>
                 <div className="service-item">
-                    <h2>Custom Programming</h2>
-                    <p>Need a bespoke solution to meet your business requirements? I can help.</p>
-
+                    <h2>E-Commerce</h2>
                     <ul>
-                        <li>Custom web application</li>
-                        <li>Bespoke web plugins</li>
-                        <li>Database design</li>
+                        <li>Ecommerce Development</li>
+                        <li>Shopify</li>
+                        <li>Woocommerce</li>
                     </ul>
 
                 </div>
 
             </div>
-            <button>View all services</button>
+            <button style={{ marginBottom: '50px', }}>View all services</button>
 
         </>
     );
