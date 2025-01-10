@@ -49,7 +49,7 @@ function Home() {
                 </div>
 
             </div>
-            <button style={{ marginBottom: '50px', }}>View all services</button>
+            <button style={{ marginBottom: '50px' }}>View all services</button>
 
         </>
     );
