@@ -2,8 +2,11 @@ function Home() {
     return (
         <>
             <div className="banner">
-                <h3>Welcome to our website</h3>
-                <p> A generic company info.</p>
+                <div className="bannercontent">
+                    <h1>Welcome to our website</h1>
+                    <h3>A generic company info.</h3>
+                </div>
+
             </div>
 
             <h1>Why us?</h1>
@@ -19,9 +22,9 @@ function Home() {
             <div className="bannerv3">
                 <div className="bannerimg"><img src="https://freepngimg.com/thumb/marketing/69135-development-mobile-app-testing-software-laptop-developer.png"></img></div>
                 <div className="bannertext">
-                   <h1>Let our team help you!</h1>
-                   <h3>We work with you from the ground up. We meet with you and understand your business needs. Then draft up a plan to address those needs. Next steps are to design our solution and after your feedback, we develop.</h3>
-                   </div>
+                    <h1>Let our team help you!</h1>
+                    <h3>We work with you from the ground up. We meet with you and understand your business needs. Then draft up a plan to address those needs. Next steps are to design our solution and after your feedback, we develop.</h3>
+                </div>
             </div>
 
             <h1> Most Reliable Web Design Winnipeg Services
